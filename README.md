@@ -1,2 +1,2 @@
 # Snake-the-game
-Joguinho da cobrinha 
+Recriando o famoso jogo da cobrinha. 
